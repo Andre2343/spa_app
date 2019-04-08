@@ -1,0 +1,14 @@
+#title, #rec{
+    font-weight: bold;
+    font-size: 23px;
+}
+#myinput, #image, #notFound, #filmInfo{
+    margin: 10px;
+}
+#image{
+    height: 15%;
+    width: 15%;
+}
+#filmInfo{
+    display: none;
+}
